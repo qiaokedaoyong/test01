@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("ｃｅｓｈｉ");
         System.out.println("冯勇");
         System.out.println("冯勇master");
+        System.out.println("冯勇ｐｕｓｈ");
     }
 }
